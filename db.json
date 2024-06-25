@@ -9,10 +9,10 @@
       },
       {
         "id": 2,
-        "title": "Destaque 2",
-        "description": "Descrição do Destaque 2",
-        "coverImageUrl": "url_da_imagem_de_capa_do_destaque2",
-        "contentUrl": "url_do_conteúdo2"
+        "title": "WebCredit",
+        "description": "Site de cartão de crédito feito com HTML, CSS e JS",
+        "coverImageUrl": "https://i.imgur.com/u18LeAT.png",
+        "contentUrl": "https://dev1amin.github.io/WebCreditCard/"
       }
     ],
     "colleagues": [
